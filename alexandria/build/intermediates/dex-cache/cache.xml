@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidProjects\alexandria\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
+        <dex dex="F:\AndroidProjects\alexandria\app\build\intermediates\pre-dexed\debug\jacocoagent-96da6f973be8fef87bf6b6dc4cc6301a78a40c54.jar" />
+    </item>
+    <item
+        jar="C:\Users\TIM\.gradle\caches\modules-2\files-2.1\com.google.zxing\android-integration\3.1.0\52707c1c0801b4e1c0ca9bdbabd2dae20d8564d7\android-integration-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="52707c1c0801b4e1c0ca9bdbabd2dae20d8564d7">
+        <dex dex="F:\AndroidProjects\alexandria\app\build\intermediates\pre-dexed\debug\android-integration-3.1.0-fde5c83658c4588d382b37252a51a7ac0673a6f0.jar" />
+    </item>
+    <item
+        jar="F:\Program Files\Android Development\Android SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\AndroidProjects\alexandria\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-0163250f3cbee1fed3b9794a840fb056b248a5bc.jar" />
+    </item>
+    <item
+        jar="F:\AndroidProjects\alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="F:\AndroidProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-dbee94f884ab98e4a6f4ea117d73c6efc1bf455a.jar" />
+    </item>
+    <item
+        jar="F:\AndroidProjects\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\AndroidProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-9c1fa2255fbc1d4983cdc277692762b7e282cd07.jar" />
+    </item>
+    <item
+        jar="F:\AndroidProjects\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\AndroidProjects\alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2bf97ce50c913237a9530321714e9b334f336faf.jar" />
+    </item>
+    <item
+        jar="C:\Users\TIM\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.1.0\908e18674f895e3e1fa8f4a954b8c637a23d2801\core-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="908e18674f895e3e1fa8f4a954b8c637a23d2801">
+        <dex dex="F:\AndroidProjects\alexandria\app\build\intermediates\pre-dexed\debug\core-3.1.0-bc7b7c45b8fd8e3c3700b4c4695856ac9d6ad6a0.jar" />
+    </item>
+
+</items>

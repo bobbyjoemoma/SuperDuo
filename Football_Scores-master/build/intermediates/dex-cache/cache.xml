@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidProjects\Football_Scores-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\AndroidProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\classes-6e5b32bcf39503c8a4007fe8c63dea65b415c227.jar" />
+    </item>
+    <item
+        jar="F:\AndroidProjects\Football_Scores-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="F:\AndroidProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\classes-b8ca46bd2cc3c1898d24460260f64477bed54eba.jar" />
+    </item>
+    <item
+        jar="F:\Program Files\Android Development\Android SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\AndroidProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-0163250f3cbee1fed3b9794a840fb056b248a5bc.jar" />
+    </item>
+    <item
+        jar="F:\AndroidProjects\Football_Scores-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\AndroidProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-fd2a1f07b86dc8db19ad987a95a0dc5d87de45af.jar" />
+    </item>
+
+</items>
