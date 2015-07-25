@@ -79,12 +79,11 @@ public class AddBook extends Fragment implements LoaderManager.LoaderCallbacks<C
                 }
 
                 //fields should not be erased here
-                /*
                 if(ean.length()<13){
-                    clearFields();
+                    //clearFields();
                     return;
                 }
-                */
+
                 try {
                     //Once we have an ISBN, start a book intent
                     Intent bookIntent = new Intent(getActivity(), BookService.class);
