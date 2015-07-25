@@ -4,7 +4,7 @@
     android:layout_height="wrap_content"
     android:elevation="4dp"
     android:background="@drawable/list_item"
-    android:paddingTop="5dp"
+    android:padding="5dp"
     android:id="@+id/widget_list_item"
     android:contentDescription="@string/click_for_details">
 
@@ -26,6 +26,7 @@
             android:textSize="@dimen/TeamNames"
             android:gravity="center"
             android:text="@string/test_text"
+            android:textColor="@android:color/black"
             android:id="@+id/home_name"
             android:contentDescription="@string/description.home_name"/>
     </LinearLayout>
@@ -40,6 +41,7 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:text="@string/test_text"
+            android:textColor="@android:color/black"
             android:layout_gravity="center"
             android:gravity="center"
             android:textSize="@dimen/Score"
@@ -50,6 +52,7 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:text="@string/test_text"
+            android:textColor="@android:color/black"
             android:layout_gravity="center"
             android:gravity="center"
             android:id="@+id/data_textview"
@@ -74,7 +77,8 @@
             android:layout_gravity="center"
             android:gravity="center"
             android:text="@string/test_text"
-            android:textSize="@dimen/TeamNames"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/widget_TeamNames"
             android:id="@+id/away_name"
             android:contentDescription="@string/description.away_name"/>
     </LinearLayout>
